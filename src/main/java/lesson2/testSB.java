@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class testSB {
     public static void main(String[] args) {
 
+
         Scanner number = new Scanner(System.in);
         System.out.println("введите длину строки: ");
         int n = Integer.parseInt(number.next());
